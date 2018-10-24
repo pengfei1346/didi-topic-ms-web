@@ -1,13 +1,13 @@
 /**
- * Created by zzmhot on 2017/3/23.
+ * Created by chenyangshun on 2017/3/23.
  *
  * 主程序入口
  *
- * @author: zzmhot
- * @github: https://github.com/zzmhot
- * @email: zzmhot@163.com
+ * @author: chenyangshun
+ * @github: https://github.com/chenyangshun
+ * @email: cys@basetnt.com
  * @Date: 2017/3/23 18:19
- * @Copyright(©) 2017 by zzmhot.
+ * @Copyright(©) 2017 by chenyangshun.
  *
  */
 
@@ -15,10 +15,12 @@
 import 'normalize.css'
 import 'font-awesome/scss/font-awesome.scss'
 import 'element-ui/lib/theme-default/index.css'
+
 //导入Vue框架
 import Vue from 'vue'
 //导入element组件
 import ElementUI from 'element-ui'
+import './element-variables.scss'
 //导入组件
 import router from './router'
 //导入状态管理器

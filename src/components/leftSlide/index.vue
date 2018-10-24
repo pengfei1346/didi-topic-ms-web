@@ -2,7 +2,7 @@
   <div class="left-side">
     <div class="left-side-inner">
       <router-link to="/" class="logo block">
-        <img src="./images/logo.png" alt="AdminX">
+        <img src="/static/img/logo-zh.a7abd90d.svg" alt="滴滴专题管理系统">
       </router-link>
       <el-menu
         class="menu-box"
@@ -46,7 +46,7 @@
     data(){
       return {
         nav_menu_data: [{
-          title: "主页",
+          title: "专题管理",
           path: "/home",
           icon: "fa-home"
         }, {

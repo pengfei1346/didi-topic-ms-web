@@ -1,10 +1,10 @@
 /**
  * @file: index.
  * @intro: 数据请求统一封装.
- * @author: zzmhot.
- * @email: zzmhot@163.com.
+ * @author: chenyangshun.
+ * @email: cys@basetnt.com.
  * @Date: 2017/5/8 14:52.
- * @Copyright(©) 2017 by zzmhot.
+ * @Copyright(©) 2017 by chenyangshun.
  *
  */
 
@@ -34,8 +34,8 @@ export default function fetch(options) {
       timeout: 2000,
       //设置请求时的header
       headers: {
-        'Github-url': 'https://github.com/zzmhot/vue-admin',
-        'X-Powered-By': 'zzmhot'
+        'Github-url': 'https://github.com/chenyangshun/vue-admin',
+        'X-Powered-By': 'chenyangshun'
       }
     })
     //请求处理

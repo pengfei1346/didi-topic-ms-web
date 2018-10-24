@@ -1,13 +1,13 @@
 /**
- * Created by zzmhot on 2017/3/23.
+ * Created by chenyangshun on 2017/3/23.
  *
  * 状态管理器
  *
- * @author: zzmhot
- * @github: https://github.com/zzmhot
- * @email: zzmhot@163.com
+ * @author: chenyangshun
+ * @github: https://github.com/chenyangshun
+ * @email: cys@basetnt.com
  * @Date: 2017/3/23 18:24
- * @Copyright(©) 2017 by zzmhot.
+ * @Copyright(©) 2017 by chenyangshun.
  *
  */
 

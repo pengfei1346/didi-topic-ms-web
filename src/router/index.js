@@ -1,13 +1,13 @@
 /**
- * Created by zzmhot on 2017/3/23.
+ * Created by chenyangshun on 2017/3/23.
  *
  * 路由Map
  *
- * @author: zzmhot
- * @github: https://github.com/zzmhot
- * @email: zzmhot@163.com
+ * @author: chenyangshun
+ * @github: https://github.com/chenyangshun
+ * @email: cys@basetnt.com
  * @Date: 2017/3/23 18:30
- * @Copyright(©) 2017 by zzmhot.
+ * @Copyright(©) 2017 by chenyangshun.
  *
  */
 
@@ -60,7 +60,7 @@ const routes = [{
     name: 'home',
     component: homeComponent,
     meta: {
-      title: "主页",
+      title: "专题管理",
       auth: true
     }
   }, {

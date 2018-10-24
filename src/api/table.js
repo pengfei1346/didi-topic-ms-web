@@ -1,8 +1,8 @@
 /**
  * @file: table.
  * @intro: table请求数据配置.
- * @author: zzmhot.
- * @email: zzmhot@163.com.
+ * @author: chenyangshun.
+ * @email: cys@basetnt.com.
  * @Date: 2017/5/8 15:25.
  * @Copyright(©) 2017 by thinkive.
  *

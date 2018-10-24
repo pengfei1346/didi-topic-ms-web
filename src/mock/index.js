@@ -1,8 +1,8 @@
 /**
  * @file: index.
  * @intro: intro.
- * @author: zzmhot.
- * @email: zzmhot@163.com.
+ * @author: chenyangshun.
+ * @email: cys@basetnt.com.
  * @Date: 2017/7/24 9:37.
  *
  */

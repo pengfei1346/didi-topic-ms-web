@@ -1,10 +1,10 @@
 /**
  * @file: tools_base64.
  * @intro: base64加密解密工具.
- * @author: zzmhot.
- * @email: zzmhot@163.com.
+ * @author: chenyangshun.
+ * @email: cys@basetnt.com.
  * @Date: 2017/5/9 13:45.
- * @Copyright(©) 2017 by zzmhot.
+ * @Copyright(©) 2017 by chenyangshun.
  *
  */
 
